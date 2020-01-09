@@ -1,0 +1,13 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:divider="@drawable/separator"
+    android:gravity="center"
+    android:shadowColor="#FD0000"
+    android:shadowDx="19"
+    android:shadowDy="9"
+    android:shadowRadius="5"
+    android:text="test string"
+    android:textColor="#0055FF"
+    android:textSize="50sp" />
